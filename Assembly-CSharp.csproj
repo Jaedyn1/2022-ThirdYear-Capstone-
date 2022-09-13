@@ -53,8 +53,12 @@
     <UnityVersion>2020.3.17f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Jaedyn\Scripts\AimGun.cs" />
     <Compile Include="Assets\Jaedyn\Scripts\Playermovement.cs" />
+    <Compile Include="Assets\Jaedyn\Scripts\FpsCam.cs" />
+    <Compile Include="Assets\Jaedyn\Scripts\RaycastRifle.cs" />
+    <Compile Include="Assets\Jaedyn\Scripts\AimGun.cs" />
+    <Compile Include="Assets\Jaedyn\Scripts\GunSystem.cs" />
+    <Compile Include="Assets\Jaedyn\Scripts\Projectile_Gun.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
